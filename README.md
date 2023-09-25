@@ -3,10 +3,10 @@
 В проекте retail_app по пути packages/retail_app/env/ должны находиться 2 файла prod.env и stage.env. Если у вас их нет, то нужно обратиться к старшему разработчику
 В них храниться информация о конфигурации для определенного таргета.
 
-|Имя файла|  Имя  класа |
-| ------------ | ------------ |
-|  *prod.env* | AppConfigProd  |
-|  *stage.env*  |  AppConfigStage |
+| Имя файла | Имя  класа |
+| --- | --- |
+| *prod.env* | AppConfigProd |
+| *stage.env* | AppConfigStage |
 
 Структура файла .env
 ```.env
